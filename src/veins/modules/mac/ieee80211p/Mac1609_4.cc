@@ -171,7 +171,7 @@ void Mac1609_4::handleSelfMsg(cMessage* msg) {
 
 	}
 	else if (msg ==  nextMacEvent) {
-
+	    EV << "IN MAC *******************************************************\n";
 		//we actually came to the point where we can send a packet
 		channelBusySelf(true);
 		WaveShortMessage* pktToSend = myEDCA[activeChannel]->initiateTransmit(lastIdle);

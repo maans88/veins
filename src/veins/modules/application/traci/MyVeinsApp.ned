@@ -28,4 +28,5 @@ simple MyVeinsApp extends BaseWaveApplLayer
 {
     @class(MyVeinsApp);
     string appName = default("My first Veins App!");
+    @display("i=block/app2");
 }

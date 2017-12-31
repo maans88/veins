@@ -25,7 +25,6 @@ const simsignalwrap_t BaseWaveApplLayer::parkingStateChangedSignal = simsignalwr
 
 void BaseWaveApplLayer::initialize(int stage) {
     BaseApplLayer::initialize(stage);
-
     if (stage==0) {
 
         //initialize pointers to other modules
@@ -219,6 +218,7 @@ void BaseWaveApplLayer::handleLowerMsg(cMessage* msg) {
     ASSERT(wsm);
 
     if (BasicSafetyMessage* bsm = dynamic_cast<BasicSafetyMessage*>(wsm)) {
+        EV << "TEST***************\n";
         receivedBSMs++;
         onBSM(bsm);
     }
@@ -296,6 +296,7 @@ void BaseWaveApplLayer::stopService() {
 }
 
 void BaseWaveApplLayer::sendDown(cMessage* msg) {
+    EV << " I am in send down****\n";
     checkAndTrackPacket(msg);
     BaseApplLayer::sendDown(msg);
 }

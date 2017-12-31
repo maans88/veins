@@ -1,0 +1,6 @@
+<routes>
+<vType accel="10.0" decel="5.0" id="Car" length="2.0" maxSpeed="80.0" sigma="0.7" />
+	<route id="westtraffic" edges="w_edge_1 w_edge_2" />
+	<flow id="type1" color="blue" period="0.1" type="Car" departLane="random" from="w_edge_1" to="w_edge_3" />
+	<flow id="type2" color="white" period="0.1" type="Car" departLane="random" from="e_edge_1" to="e_edge_3" />
+</routes>

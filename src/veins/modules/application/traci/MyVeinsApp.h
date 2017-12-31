@@ -23,6 +23,7 @@
 
 #include <omnetpp.h>
 #include "veins/modules/application/ieee80211p/BaseWaveApplLayer.h"
+#include "veins/modules/mac/ieee80211p/Mac1609_4.h"
 
 using namespace omnetpp;
 
@@ -41,10 +42,17 @@ class MyVeinsApp : public BaseWaveApplLayer {
         virtual void initialize(int stage);
         virtual void finish();
     protected:
+        double local_tx;
+        TraCIMobility* mobility;
+        TraCICommandInterface* traci;
+        TraCICommandInterface::Vehicle* traciVehicle;
+        Mac1609_4 *mac;
+        simtime_t lastSent;
+        simtime_t InterPacketDelay, time1;
         virtual void onBSM(BasicSafetyMessage* bsm);
         virtual void onWSM(WaveShortMessage* wsm);
         virtual void onWSA(WaveServiceAdvertisment* wsa);
-
+        void AdaptiveTX();
         virtual void handleSelfMsg(cMessage* msg);
         virtual void handlePositionUpdate(cObject* obj);
     };

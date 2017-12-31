@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Thu 28 Dec 2017 06:49:15 PM EST by Netedit Version 0.26.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netedit.exeConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="/usr/local/src/veins/examples/veins/tweleve_lanes/sim1.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/usr/local/src/veins/examples/veins/tweleve_lanes/sim1.net.xml"/>
+    </output>
+
+    <processing>
+        <no-internal-links value="true"/>
+        <no-turnarounds value="true"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+        <junctions.corner-detail value="0"/>
+    </processing>
+
+</configuration>
+-->
+
+<net version="0.25" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,900.00,0.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id="east1" from="node2" to="node1" priority="1">
+        <lane id="east1_0" index="0" speed="80.00" length="450.00" shape="450.00,18.15 0.00,18.15"/>
+        <lane id="east1_1" index="1" speed="80.00" length="450.00" shape="450.00,14.85 0.00,14.85"/>
+        <lane id="east1_2" index="2" speed="80.00" length="450.00" shape="450.00,11.55 0.00,11.55"/>
+        <lane id="east1_3" index="3" speed="80.00" length="450.00" shape="450.00,8.25 0.00,8.25"/>
+        <lane id="east1_4" index="4" speed="80.00" length="450.00" shape="450.00,4.95 0.00,4.95"/>
+        <lane id="east1_5" index="5" speed="80.00" length="450.00" shape="450.00,1.65 0.00,1.65"/>
+    </edge>
+    <edge id="east2" from="node3" to="node2" priority="1">
+        <lane id="east2_0" index="0" speed="80.00" length="450.00" shape="900.00,18.15 450.00,18.15"/>
+        <lane id="east2_1" index="1" speed="80.00" length="450.00" shape="900.00,14.85 450.00,14.85"/>
+        <lane id="east2_2" index="2" speed="80.00" length="450.00" shape="900.00,11.55 450.00,11.55"/>
+        <lane id="east2_3" index="3" speed="80.00" length="450.00" shape="900.00,8.25 450.00,8.25"/>
+        <lane id="east2_4" index="4" speed="80.00" length="450.00" shape="900.00,4.95 450.00,4.95"/>
+        <lane id="east2_5" index="5" speed="80.00" length="450.00" shape="900.00,1.65 450.00,1.65"/>
+    </edge>
+    <edge id="west1" from="node1" to="node2" priority="1">
+        <lane id="west1_0" index="0" speed="80.00" length="450.00" shape="0.00,-18.15 450.00,-18.15"/>
+        <lane id="west1_1" index="1" speed="80.00" length="450.00" shape="0.00,-14.85 450.00,-14.85"/>
+        <lane id="west1_2" index="2" speed="80.00" length="450.00" shape="0.00,-11.55 450.00,-11.55"/>
+        <lane id="west1_3" index="3" speed="80.00" length="450.00" shape="0.00,-8.25 450.00,-8.25"/>
+        <lane id="west1_4" index="4" speed="80.00" length="450.00" shape="0.00,-4.95 450.00,-4.95"/>
+        <lane id="west1_5" index="5" speed="80.00" length="450.00" shape="0.00,-1.65 450.00,-1.65"/>
+    </edge>
+    <edge id="west2" from="node2" to="node3" priority="1">
+        <lane id="west2_0" index="0" speed="80.00" length="450.00" shape="450.00,-18.15 900.00,-18.15"/>
+        <lane id="west2_1" index="1" speed="80.00" length="450.00" shape="450.00,-14.85 900.00,-14.85"/>
+        <lane id="west2_2" index="2" speed="80.00" length="450.00" shape="450.00,-11.55 900.00,-11.55"/>
+        <lane id="west2_3" index="3" speed="80.00" length="450.00" shape="450.00,-8.25 900.00,-8.25"/>
+        <lane id="west2_4" index="4" speed="80.00" length="450.00" shape="450.00,-4.95 900.00,-4.95"/>
+        <lane id="west2_5" index="5" speed="80.00" length="450.00" shape="450.00,-1.65 900.00,-1.65"/>
+    </edge>
+
+    <junction id="node1" type="unregulated" x="0.00" y="0.00" incLanes="east1_0 east1_1 east1_2 east1_3 east1_4 east1_5" intLanes="" shape="0.00,-0.05 0.00,-19.75 0.00,19.75 0.00,0.05"/>
+    <junction id="node2" type="unregulated" x="450.00" y="0.00" incLanes="east2_0 east2_1 east2_2 east2_3 east2_4 east2_5 west1_0 west1_1 west1_2 west1_3 west1_4 west1_5" intLanes="" shape="450.00,19.75 450.00,-19.75 450.00,19.75"/>
+    <junction id="node3" type="unregulated" x="900.00" y="0.00" incLanes="west2_0 west2_1 west2_2 west2_3 west2_4 west2_5" intLanes="" shape="900.00,0.05 900.00,19.75 900.00,-19.75 900.00,-0.05"/>
+
+    <connection from="east2" to="east1" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="east2" to="east1" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="east2" to="east1" fromLane="2" toLane="2" dir="s" state="M"/>
+    <connection from="east2" to="east1" fromLane="3" toLane="3" dir="s" state="M"/>
+    <connection from="east2" to="east1" fromLane="4" toLane="4" dir="s" state="M"/>
+    <connection from="east2" to="east1" fromLane="5" toLane="5" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="2" toLane="2" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="3" toLane="3" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="4" toLane="4" dir="s" state="M"/>
+    <connection from="west1" to="west2" fromLane="5" toLane="5" dir="s" state="M"/>
+
+</net>
