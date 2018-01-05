@@ -173,6 +173,7 @@ class BaseWaveApplLayer : public BaseApplLayer {
 
         /* state of the vehicle */
         Coord curPosition;
+        int VehicleID;
         Coord curSpeed;
         int myId;
         int mySCH;

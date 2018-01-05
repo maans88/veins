@@ -1,0 +1,3271 @@
+---- 20180103-14:48:12 ---------------------------------------------------------
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f2 ptr0x3bd74b0'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f1 ptr0x3bd7360'
+
+
+
+Tcl error: tkutil.cc#524: unknown option "0 0 0 0"
+  while directly invoking Tcl command proc at 1
+  with args:  'dummy' 'create' 'group' '0 0 0 0' '-matrix' '{0.00549194 0} {0 0.00549194} {0 0}' '-tags' 'fig f3 ptr0x3bd75a0'
+
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+
+Tcl error: moduleinspector.cc#244: tagOrId "f3" doesn't match any items
+    while executing
+".network.c raise submodext f3"
+
+

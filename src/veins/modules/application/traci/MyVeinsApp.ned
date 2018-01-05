@@ -27,6 +27,7 @@ import org.car2x.veins.modules.application.ieee80211p.BaseWaveApplLayer;
 simple MyVeinsApp extends BaseWaveApplLayer
 {
     @class(MyVeinsApp);
-    string appName = default("My first Veins App!");
-    @display("i=block/app2");
+    string appName = default("Network Congestion Control Appl");
+    int algo = default(0);
+    @display("i=block/app2");      
 }

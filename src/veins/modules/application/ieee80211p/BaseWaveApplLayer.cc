@@ -163,6 +163,7 @@ void BaseWaveApplLayer::populateWSM(WaveShortMessage* wsm, int rcvId, int serial
         bsm->setSenderPos(curPosition);
         bsm->setSenderPos(curPosition);
         bsm->setSenderSpeed(curSpeed);
+        bsm->setRandomm(VehicleID);
         bsm->setPsid(-1);
         bsm->setChannelNumber(Channels::CCH);
         bsm->addBitLength(beaconLengthBits);
@@ -196,6 +197,7 @@ void BaseWaveApplLayer::handlePositionUpdate(cObject* obj) {
     ChannelMobilityPtrType const mobility = check_and_cast<ChannelMobilityPtrType>(obj);
     curPosition = mobility->getCurrentPosition();
     curSpeed = mobility->getCurrentSpeed();
+    VehicleID = mobility->getNode()->getId();
 }
 
 void BaseWaveApplLayer::handleParkingUpdate(cObject* obj) {
@@ -218,7 +220,6 @@ void BaseWaveApplLayer::handleLowerMsg(cMessage* msg) {
     ASSERT(wsm);
 
     if (BasicSafetyMessage* bsm = dynamic_cast<BasicSafetyMessage*>(wsm)) {
-        EV << "TEST***************\n";
         receivedBSMs++;
         onBSM(bsm);
     }
@@ -235,6 +236,7 @@ void BaseWaveApplLayer::handleLowerMsg(cMessage* msg) {
 }
 
 void BaseWaveApplLayer::handleSelfMsg(cMessage* msg) {
+//    std::cout << "BaseWaveApplLayer: " << VehicleID << endl;
     switch (msg->getKind()) {
     case SEND_BEACON_EVT: {
         BasicSafetyMessage* bsm = new BasicSafetyMessage();

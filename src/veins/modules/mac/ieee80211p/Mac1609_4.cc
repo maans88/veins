@@ -237,6 +237,7 @@ void Mac1609_4::handleSelfMsg(cMessage* msg) {
 			channelIdle();
 			//do nothing. contention will automatically start after channel switch
 		}
+//	std::cout << "TXPOWER: " << txPower_mW << endl;
 	}
 }
 
