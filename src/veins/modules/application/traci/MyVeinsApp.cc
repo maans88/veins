@@ -211,7 +211,7 @@ void MyVeinsApp::AdaptiveTX(){
                 local_tx = 1;
         }
         else {
-            mac->setTxPower(3);
+            mac->setTxPower(4);
             local_tx++;
         }
     }
