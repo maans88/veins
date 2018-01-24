@@ -20,8 +20,11 @@
 
 #ifndef __VEINS_MYVEINSAPP_H_
 #define __VEINS_MYVEINSAPP_H_
-
+#include <string>
+#include <iostream>
 #include <omnetpp.h>
+#include <iostream>
+#include <fstream>
 #include "veins/modules/application/ieee80211p/BaseWaveApplLayer.h"
 #include "veins/modules/mac/ieee80211p/Mac1609_4.h"
 typedef std::vector<int> IntVector;
@@ -53,16 +56,18 @@ class MyVeinsApp : public BaseWaveApplLayer {
         BasicSafetyMessage* bsm;
         simtime_t IPD_VEC[30];
         simtime_t IPD_TIME[30];
+        int fairness_packet_counter[2500];
         bool startSending;
         virtual void onBSM(BasicSafetyMessage* bsm);
         virtual void onData(BasicSafetyMessage* bsm);
         virtual void onWSM(WaveShortMessage* wsm);
         virtual void onWSA(WaveServiceAdvertisment* wsa);
         void AdaptiveTX();
-        void broadcastBSM();
+        void broadcastBSM(BasicSafetyMessage* bsm);
         simtime_t getLastTime(float distance);
         virtual void handleSelfMsg(cMessage* msg);
         virtual void handlePositionUpdate(cObject* obj);
+        void writelogfile(std::string filename, int content);
     };
 
 #endif

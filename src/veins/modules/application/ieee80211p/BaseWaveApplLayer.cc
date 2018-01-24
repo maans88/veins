@@ -163,7 +163,9 @@ void BaseWaveApplLayer::populateWSM(WaveShortMessage* wsm, int rcvId, int serial
         bsm->setSenderPos(curPosition);
         bsm->setSenderPos(curPosition);
         bsm->setSenderSpeed(curSpeed);
-        bsm->setRandomm(VehicleID);
+//        bsm->setRandomm(VehicleID);
+        bsm->setRandomm(mobility->getNode()->getIndex());
+//        std::cout << mobility->getNode()->getIndex() << endl;
         bsm->setPsid(-1);
         bsm->setChannelNumber(Channels::CCH);
         bsm->addBitLength(beaconLengthBits);

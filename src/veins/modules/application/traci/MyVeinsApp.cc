@@ -19,7 +19,6 @@
 //
 
 #include "MyVeinsApp.h"
-
 Define_Module(MyVeinsApp);
 
 void MyVeinsApp::initialize(int stage) {
@@ -40,15 +39,23 @@ void MyVeinsApp::initialize(int stage) {
         InterPacketDelay = 0;
     }
     else if (stage == 1) {
+//        std::cout<< "I am: " << mobility->getNode()->getIndex() << endl;
         //Initializing members that require initialized other modules goes here
+        EV << "AdaptiveApp\n";
+        for (int i = 0; i <344; i++){
+            fairness_packet_counter[i] = 0;
+        }
     }
-    EV << "AdaptiveApp\n";
 }
-
+void MyVeinsApp::writelogfile(std::string filename, int content)
+{
+         std::ofstream  out;
+         out.open(filename.c_str(), std::ios_base::app);
+         out << content;
+         out.close();
+}
 void MyVeinsApp::finish() {
     BaseWaveApplLayer::finish();
-//    recordScalar("IPD_APP",InterPacketDelay);
-    recordScalar("IPD_APP_0",IPD_VEC[0]);
     recordScalar("IPD_APP_1",IPD_VEC[1]);
     recordScalar("IPD_APP_2",IPD_VEC[2]);
     recordScalar("IPD_APP_3",IPD_VEC[3]);
@@ -66,20 +73,24 @@ void MyVeinsApp::finish() {
     recordScalar("IPD_APP_15",IPD_VEC[15]);
     recordScalar("IPD_APP_16",IPD_VEC[16]);
     recordScalar("IPD_APP_17",IPD_VEC[17]);
-//    recordScalar("IPD_APP_18",IPD_VEC[18]);
-//    recordScalar("IPD_APP_19",IPD_VEC[19]);
-//    recordScalar("IPD_APP_20",IPD_VEC[20]);
-//    recordScalar("IPD_APP_21",IPD_VEC[21]);
-//    recordScalar("IPD_APP_22",IPD_VEC[22]);
-//    recordScalar("IPD_APP_23",IPD_VEC[23]);
-//    recordScalar("IPD_APP_24",IPD_VEC[24]);
-//    recordScalar("IPD_APP_25",IPD_VEC[25]);
-//    recordScalar("IPD_APP_26",IPD_VEC[26]);
-//    recordScalar("IPD_APP_27",IPD_VEC[27]);
-//    recordScalar("IPD_APP_28",IPD_VEC[28]);
-//    recordScalar("IPD_APP_29",IPD_VEC[29]);
-//    recordScalar("IPD_APP_30",IPD_VEC[30]);
-    //statistics recording goes here
+
+//    std::string Result;          // string which will contain the result
+//    std::ostringstream convert;   // stream used for the conversion
+//    convert << mobility->getNode()->getIndex();
+//    Result = convert.str();
+//    // create and open the .csv file
+//    fs.open(outputFile,Result.c_str());
+//     write the file headers
+//    outputFile << "Column A" << "," << "Column B" << "Column C" << std::endl;
+
+
+    int i = 0;
+////    std::cout << "fairness from vehicle: " << mobility->getNode()->getIndex() << " ";
+    for (i = 1; i < 344;i++){
+        std::cout << fairness_packet_counter[i] << ",";
+    }
+    std::cout << endl;
+//    outputFile.close();
 }
 
 void MyVeinsApp::onBSM(BasicSafetyMessage* bsm) {
@@ -87,12 +98,14 @@ void MyVeinsApp::onBSM(BasicSafetyMessage* bsm) {
     //code for handling the message goes here
     InterPacketDelay = (InterPacketDelay + (simTime() - lastRec))/2;
 
-    std::cout<< "I am: " << mobility->getNode()->getId() << "==" << BaseWaveApplLayer::curPosition << " Received Messaged from: " << bsm->getRandomm() << " Distance";
-    float distance = abs(BaseWaveApplLayer::curPosition.x -  bsm->getSenderPos().x);
-    std::cout << distance;
+//    std::cout<< "I am: " << mobility->getNode()->getIndex() << "received message from: " << bsm->getRandomm() << endl;
 
-    std::cout << "  time: " << simTime() << " - " << lastRec << " = " << simTime() - lastRec << endl;
+
+
+    float distance = abs(BaseWaveApplLayer::curPosition.x -  bsm->getSenderPos().x);
+
     lastRec = simTime();
+
     int local_index = distance /20;
     WATCH(IPD_VEC);
     if (IPD_VEC[local_index] == 0) {
@@ -105,7 +118,8 @@ void MyVeinsApp::onBSM(BasicSafetyMessage* bsm) {
         }
         IPD_VEC[local_index] = (IPD_VEC[local_index] + (simTime() - getLastTime(distance)))/2;
     }
-    std::cout << IPD_TIME[local_index] << " " << IPD_VEC[local_index] << "<-test: " << local_index << endl;
+//    std::cout << IPD_TIME[local_index] << " " << IPD_VEC[local_index] << "<-test: " << local_index << endl;
+    fairness_packet_counter[bsm->getRandomm()] +=1;
 }
 
 simtime_t MyVeinsApp::getLastTime(float distance){
@@ -141,16 +155,19 @@ void MyVeinsApp::handlePositionUpdate(cObject* obj) {
     BaseWaveApplLayer::handlePositionUpdate(obj);
 }
 
-void MyVeinsApp::broadcastBSM() {
-    while ((simTime() - lastSent) >= 0.1){
-        EV_TRACE << "****" << lastSent << " " << simTime() << endl;
-        bsm = new BasicSafetyMessage();
-        bsm->setSenderPos(mobility->getCurrentPosition());
-        bsm->setSenderSpeed(mobility->getCurrentSpeed());
-        populateWSM(bsm);
-        event = new cMessage("test");
-        sendDown(bsm);
-    }
+void MyVeinsApp::broadcastBSM(BasicSafetyMessage* bsm) {
+//    std::cout << "IN" << bsm->getId() <<endl;
+
+
+//    while ((simTime() - lastSent) >= 0.1){
+//        EV_TRACE << "****" << lastSent << " " << simTime() << endl;
+//        bsm = new BasicSafetyMessage();
+//        bsm->setSenderPos(mobility->getCurrentPosition());
+//        bsm->setSenderSpeed(mobility->getCurrentSpeed());
+//        populateWSM(bsm);
+//        event = new cMessage("test");
+//        sendDown(bsm);
+//    }
 }
 void MyVeinsApp::onData(BasicSafetyMessage* bsm) {
 //    Receive a message with a target speed, slow down to that speed
@@ -161,21 +178,24 @@ void MyVeinsApp::AdaptiveTX(){
     int algorithmType = par("algo").longValue();
     double vehicleSpeed ;
     vehicleSpeed = mobility->getSpeed();
-    if (vehicleSpeed > 31.21) {
-        speedFactor = 1.6;
+//    std::cout << "speed: " << mobility->getSpeed() << endl;
+    if (vehicleSpeed > 90) {
+        speedFactor = 1.3;
     }
-    else if(25 < vehicleSpeed <= 31.25){
-        speedFactor = 1.4;
+    else if(vehicleSpeed > 60){
+        if (vehicleSpeed <= 90){
+            speedFactor = 1.15;
+        }
     }
-    else if (15.625 < vehicleSpeed <= 25.0){
-        speedFactor = 1.2;
+    else if (vehicleSpeed > 40){
+        if (vehicleSpeed <= 60){
+            speedFactor = 1.1;
+        }
     }
-    else if(vehicleSpeed <= 15.625){
-        speedFactor = 1.0;
+    else if(vehicleSpeed <= 40){
+        speedFactor = 1.05;
     }
-    std::cout << "Position: " << BaseWaveApplLayer::curPosition << endl;// Algo Decider: " << algorithmType << endl;
     if (algorithmType == 0){
-        EV << "GOING: " << mobility->getSpeed() << endl;
         if (local_tx == 7){
             mac->setTxPower(10);
             local_tx = 1;
@@ -186,15 +206,13 @@ void MyVeinsApp::AdaptiveTX(){
         }
     }
     else if (algorithmType == 1){
-        EV << "OSC\n";
-        mac->setTxPower(2);
-        if(local_tx == 7){
+        if(local_tx == 5){
                 mac->setTxPower(10);
                 local_tx = 1;
         }
         else {
+            mac->setTxPower(3);
             local_tx++;
         }
     }
-//    mac->setTxPower(10);
 }
