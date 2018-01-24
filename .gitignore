@@ -3,16 +3,16 @@ src/*.so
 src/*.dll
 src/**/*_m.h
 src/**/*_m.cc
-
+examples/veins/six_lanes/.tkenvlog
 doc/doxy
 doc/neddoc
-
+.settings/language.settings.xml
 /run
 /debug
 /memcheck
 
 /out
-
+*.anf
 tests/**/results
 tests/**/.tkenvrc
 tests/**/.qtenvrc
